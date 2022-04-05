@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syb1231&show_icons=true&theme=radical)
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=tjdudqls9098)](https://solved.ac/{handle})
